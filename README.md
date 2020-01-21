@@ -1,2 +1,10 @@
-# project-ideas
-Programming project ideas and description for my students
+# პროექტის იდეები
+
+პროექტის იდეები პროგრამირების ჯგუფის მოსწავლეებისთვის
+
+
+
+1. Console აპლიკაცია
+  1.1 X O თამაში
+
+2. Web აპლიკაცია
