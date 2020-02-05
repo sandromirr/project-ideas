@@ -14,6 +14,5 @@
 8. [StringLib](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - გავაკეთოთ string ბიბლიოთეკა, რომელსაც უფრო მეტი ფუნქციები ექნება.
 
 ## Web Application
-1. Lost and Found
-2. Library
-3. Student Portfolio
+1. [Lost and Found](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დაკრგული ნივთების პოვნის აპლიკაცია
+2. [Student Portfolio](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - მოსწავლეების სასწავალო პროექტების საიტი
