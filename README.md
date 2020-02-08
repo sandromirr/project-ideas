@@ -12,6 +12,7 @@
 6. [BattleShip War](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - კომპიუტერი 10X10 დაფაზე განალაგებს გემებს(1,3,5,7) უჯრიანს და ჩვენ უნდა გავანადგუროთ
 7. [TaskManager](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დავალებების მართვის მინი პროგრამა
 8. [StringLib](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - გავაკეთოთ string ბიბლიოთეკა, რომელსაც უფრო მეტი ფუნქციები ექნება.
+8. [Codeforces Checker](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - Codeforcres Api გამოყენებით შევამოწმოთ მომხმარებელმა ამოხსნა თუ არა ამოცანა.
 
 ## Web Application
 1. [Lost and Found](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დაკრგული ნივთების პოვნის აპლიკაცია
