@@ -13,6 +13,7 @@
 7. [TaskManager](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დავალებების მართვის მინი პროგრამა
 8. [StringLib](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - გავაკეთოთ string ბიბლიოთეკა, რომელსაც უფრო მეტი ფუნქციები ექნება.
 8. [Codeforces Checker](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - Codeforcres Api გამოყენებით შევამოწმოთ მომხმარებელმა ამოხსნა თუ არა ამოცანა.
+9. [Guess Number](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - ჩვენ ჩავიფიქრებთ რიცხვს და კომპიუტერი ცდილობს გამოიცნოს. გამოიყენეთ Binary Search ალგორითმი
 
 ## Web Application
 1. [Lost and Found](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დაკრგული ნივთების პოვნის აპლიკაცია
