@@ -1,11 +1,5 @@
 import random
 
-n = int(input())
-
-f = open("questions.txt", "w")
-s = f"{n}\n"
-
-
 def getOperation(number):
     if number == 0:
         return '+'
@@ -28,26 +22,29 @@ def getAnswer(number1, operation, number2):
         return number1 // number2
 
 
-for count in range(0, n):
-    while True:
+try:
+    n = int(input())
 
-        number1 = random.randint(0, 100)
-        number2 = random.randint(1, 100)
-        operation = getOperation(random.randint(0, 100) % 4)
-        answer = getAnswer(number1, operation, number2)
-        l = [answer]
+    f = open("questions.txt", "w")
+    s = f"{n}\n"
 
-        for i in range(0, 3):
-            l.append(random.randint(0, 100))
-        random.shuffle(l)
-        #print(number1,operation,number2)
-        if operation == '+' or operation == '-' or operation == '*':
-            s += f"{number1}{operation}{number2}=;{l[0]};{l[1]};{l[2]};{l[3]};{answer}\n"
-            break
-        elif operation == '/' and number1 % number2 == 0:
-            s += f"{number1}{operation}{number2}=;{l[0]};{l[1]};{l[2]};{l[3]};{answer}\n"
-            print(operation)
-            break
+    for count in range(0, n):
+        while True:
+            number1 = random.randint(0, 100)
+            number2 = random.randint(1, 100)
+            operation = getOperation(random.randint(0, 100) % 4)
+            answer = getAnswer(number1, operation, number2)
+            l = [answer]
 
-f.write(s)
-print(s)
+            for i in range(0, 3):
+                l.append(random.randint(0, 100))
+            random.shuffle(l)
+            #print(number1,operation,number2)
+            if operation == '+' or operation == '-' or operation == '*':
+                s += f"{number1}{operation}{number2}=;{l[0]};{l[1]};{l[2]};{l[3]};{answer}\n"
+                break
+
+    f.write(s)
+    print(s)
+except NameError:
+    print(NameError)
