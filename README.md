@@ -5,7 +5,7 @@
 ## Console Application
 
 1. [Math Quiz](MathQuiz/MathQuiz.md) - მათემატიკის ქვიზი, რომელიც შემთხვევითი პრინციპით არჩევს კითხვებს მოსწავლეებისთვის და შეაფასებს.
-2. [TicTacToe Game](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - X და O თამაში 2 მოთამაშისთვის
+2. [TicTacToe Game](TicTacToe/TicTacToe.md) - X და O თამაში 2 მოთამაშისთვის
 3. [Phonebook](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - ტელეფონების წიგნი
 4. [Hangman](Hangman/Hangman.md) - თამაში "ჩამოხჩობანა". კომპიუტერი შემთხვევით ჩაიფიქრებს სიტყვა და ჩვენ უნდა გამოვიცნოთ.
 5. [Dictionary(Eng-Ka)](TicTacToe/TicTacToe.md) - ინგლისურ-ქართული ლექსიკონი
