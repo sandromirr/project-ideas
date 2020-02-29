@@ -13,7 +13,7 @@ def getOperation(number):
 
 def getAnswer(number1, operation, number2):
     if operation == '+':
-        return number1 + number1
+        return number1 + number2
     elif operation == '-':
         return number1 - number2
     elif operation == '*':
