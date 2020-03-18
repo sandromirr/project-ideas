@@ -14,7 +14,7 @@
 8. [StringLib](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - გავაკეთოთ string ბიბლიოთეკა, რომელსაც უფრო მეტი ფუნქციები ექნება.
 9. [Codeforces Checker](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - Codeforcres Api გამოყენებით შევამოწმოთ მომხმარებელმა ამოხსნა თუ არა ამოცანა.
 10. [Guess Number](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - ჩვენ ჩავიფიქრებთ რიცხვს და კომპიუტერი ცდილობს გამოიცნოს. გამოიყენეთ Binary Search ალგორითმი
-11. [Memory Game](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - მეხსიერების თამაში.
+11. [Memory Game](MemoryGame/memory-game.md) - მეხსიერების თამაში.
 12. [Number to Word](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - მოცემულია მთელი რიცხვი ჩავწეროთ სიტყვიერად. მაგ: 120 => ას ოცი
 13. [Weather Forecast](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - ამინდის პროგნოზის აპლიკაცია API გამოყენებით.
 
