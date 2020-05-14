@@ -1,4 +1,4 @@
-# Hangman
+# Dictionary
 
 პროექტი ლექსიკონი
 
