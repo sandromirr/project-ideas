@@ -8,7 +8,7 @@
 2. [TicTacToe Game](TicTacToe/TicTacToe.md) - X და O თამაში 2 მოთამაშისთვის
 3. [Phonebook](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - ტელეფონების წიგნი
 4. [Hangman](Hangman/Hangman.md) - თამაში "ჩამოხჩობანა". კომპიუტერი შემთხვევით ჩაიფიქრებს სიტყვა და ჩვენ უნდა გამოვიცნოთ.
-5. [Dictionary(Eng-Ka)](Dictionary/Dictionary.md) - ინგლისურ-ქართული ლექსიკონი
+5. [Dictionary(eng-de)](Dictionary/Dictionary.md) - ინგლისურ-გერმანული ლექსიკონი
 6. [Battle Ship](BattleShip/BattleShip.md) - კომპიუტერი 10X10 დაფაზე განალაგებს გემებს და ჩვენ უნდა გავანადგუროთ
 7. [TaskManager](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დავალებების მართვის მინი პროგრამა
 8. [StringLib](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - გავაკეთოთ string ბიბლიოთეკა, რომელსაც უფრო მეტი ფუნქციები ექნება.
