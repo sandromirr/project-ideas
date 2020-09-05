@@ -17,9 +17,12 @@
 11. [Memory Game](MemoryGame/memory-game.md) - მეხსიერების თამაში.
 12. [Number to Word](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - მოცემულია მთელი რიცხვი ჩავწეროთ სიტყვიერად. მაგ: 120 => ას ოცი
 13. [Weather Forecast](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - ამინდის პროგნოზის აპლიკაცია API გამოყენებით.
+14. [BMI Calculator](https://bit.ly) - ადამიანის BMI გამოთვლა
+15. [Calorie Calculator](https://bit.ly) - კალორიების კალკულატორი და საკვების მენიუს შედეგენის აპლიკაცია.
 
 ## Web Application
 
 1. [Lost and Found](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - დაკრგული ნივთების პოვნის აპლიკაცია
 2. [Student Portfolio](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links) - მოსწავლეების სასწავალო პროექტების საიტი
 3. [Food Order Service](FoodOrderService/Description.md) - კერძების შეკვეთის აპლიკაცია.
+4. [Blood Bank](https://bit.ly) - სისხლის ბანკის ონლაინ აპლიკაცია
